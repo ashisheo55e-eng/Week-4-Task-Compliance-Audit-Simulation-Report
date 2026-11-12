@@ -174,7 +174,7 @@ The simulated audit demonstrates that compliance in a remote medical coding oper
 | High-priority actions | F-01 and F-04 | 
 | Follow-up review | Recommended within 30–60 days | 
 | Auditor / trainee | Ashish kumar | 
-| Date | 15 November 2026 |
+| Date | 11 November 2026 |
 
 
 
